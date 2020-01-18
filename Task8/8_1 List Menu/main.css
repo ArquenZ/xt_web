@@ -1,0 +1,17 @@
+.Listbox {
+  background-color: rgb(249, 228, 151);
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: rgb(93, 93, 93);
+  border-style: groove;
+  width: 200px;
+  box-shadow: 4px 4px 0 rgb(136, 0, 0);
+}
+ul {
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+  color: #880000;
+  font-weight: bold;
+  line-height: 150%;
+}
