@@ -1,0 +1,13 @@
+.header {
+  color: white;
+  padding: 10px;
+  margin-bottom: -12px;
+  background: #008b66;
+}
+.content {
+  margin-left: 35px;
+  padding: 15px 10px 10px;
+  border: 1px solid white;
+  border-right: none;
+  background: #dfe6e1;
+}
