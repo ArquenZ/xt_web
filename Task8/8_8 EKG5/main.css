@@ -1,0 +1,23 @@
+body {
+  background: black;
+  font-family: Arial, sans-serif;
+}
+.main h2 {
+  min-width: 200px;
+  font-weight: bold;
+  font-size: 27px;
+  color: #feb160;
+  background-image: linear-gradient(115deg, black 100px, transparent 100px);
+  margin: auto auto 10px -11px;
+  padding: 5px 10px;
+}
+.main {
+  background: linear-gradient(white, #bdbcbc);
+  border: 1px solid white;
+  border-radius: 0 0 10px 10px;
+  border-top: none;
+  width: 75%;
+  margin: auto;
+  padding: 0px 10px 10px;
+  position: relative;
+}

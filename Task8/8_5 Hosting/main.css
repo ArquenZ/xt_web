@@ -23,7 +23,7 @@ body {
   border-right: 1px solid rgb(230, 230, 230);
 }
 .smallbg {
-  background-image: url(/src/src1.png);
+  background-image: url(src/src1.png);
   display: inline-block;
   margin: auto;
   margin-top: 15px;
